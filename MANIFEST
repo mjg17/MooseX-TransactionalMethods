@@ -15,6 +15,7 @@ lib/MooseX/Meta/Method/Transactional/Application/ToComposite.pm
 lib/MooseX/Meta/Method/Transactional/Application/ToInstance.pm
 lib/MooseX/Meta/Method/Transactional/Meta/Role.pm
 lib/MooseX/TransactionalMethods.pm
+Changes
 Makefile.PL
 MANIFEST
 META.yml
