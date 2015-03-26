@@ -8,7 +8,7 @@ requires 'aliased' => '0';
 requires 'Sub::Name' => '0';
 
 auto_install;
-resources repository => 'http://github.com/ruoso/MooseX-TransactionalMethods/';
+resources repository => 'http://github.com/mjg17/MooseX-TransactionalMethods/';
 
 WriteAll;
 
